@@ -1,6 +1,4 @@
 # 🏥 Biomedical Patient Health Monitoring System
-### C++ Console Application | College Project
-
 ---
 
 ## 📌 Project Overview
