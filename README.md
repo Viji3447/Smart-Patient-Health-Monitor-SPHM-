@@ -108,6 +108,7 @@ health_monitor.exe      # Windows
 ---
 
 ## 👤 Author
-Vijayan .P 
+Vijayan.P 
 B.E. Biomedical Engineering  
-[Your College Name], [Year]
+V.S.B Engineering College. 
+
